@@ -1,0 +1,21 @@
+spring:
+    profiles:
+        active: dev
+---
+spring:
+    profiles: dev
+    freemarker:
+        template-loader-path:
+         - classpath:/templates/
+         - file:./templates/
+        cache: false
+        settings:
+            classic_compatible: true
+            template_update_delay: 0
+            datetime_format: yyyy-MM-dd HH:mm
+            number_format: 0.##
+        check-template-location: true
+
+
+
+
