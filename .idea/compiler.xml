@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="netcloud-base" />
+        <module name="netcloud-core" />
+        <module name="netcloud-plugin-example" />
+        <module name="netcloud-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="net-cloud-web" target="1.8" />
+      <module name="NetCloud" target="1.8" />
+      <module name="netcloud-base" target="1.8" />
+      <module name="netcloud-core" target="1.8" />
+      <module name="netcloud-plugin-example" target="1.8" />
+      <module name="netcloud-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

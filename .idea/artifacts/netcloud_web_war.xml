@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="netcloud-web:war">
+    <output-path>$PROJECT_DIR$/netcloud-web/target</output-path>
+    <root id="archive" name="netcloud.war">
+      <element id="artifact" artifact-name="netcloud-web:war exploded" />
+    </root>
+  </artifact>
+</component>

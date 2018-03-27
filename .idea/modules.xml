@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NetCloud.iml" filepath="$PROJECT_DIR$/NetCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netcloud-base/netcloud-base.iml" filepath="$PROJECT_DIR$/netcloud-base/netcloud-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netcloud-core/netcloud-core.iml" filepath="$PROJECT_DIR$/netcloud-core/netcloud-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netcloud-plugin-example/netcloud-plugin-example.iml" filepath="$PROJECT_DIR$/netcloud-plugin-example/netcloud-plugin-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netcloud-web/netcloud-web.iml" filepath="$PROJECT_DIR$/netcloud-web/netcloud-web.iml" />
+    </modules>
+  </component>
+</project>

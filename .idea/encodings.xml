@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/net-cloud-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netcloud-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netcloud-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netcloud-plugin-example" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netcloud-web" charset="UTF-8" />
+  </component>
+</project>
